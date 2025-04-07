@@ -1,8 +1,0 @@
-Binaries/
-DerivedDataCache/
-Intermediate/
-Saved/
-Build/
-Plugins/
-.idea/
-.vs/
